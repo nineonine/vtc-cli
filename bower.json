@@ -1,0 +1,18 @@
+{
+  "private": true,
+  "name": "vtc-cli",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output",
+    "dist"
+  ],
+  "dependencies": {
+    "purescript-console": "^2.0.0",
+    "purescript-halogen": "^0.12.0",
+    "purescript-affjax": "^3.0.2",
+    "bootstrap": "^3.3.7",
+    "purescript-halogen-bootstrap": "^4.0.0"
+  }
+}
