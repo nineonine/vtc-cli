@@ -1,2 +1,1 @@
-# purescript-halogen-template
-# vtc-cli
+# Visitors to Canada Quotes Calculator UI
